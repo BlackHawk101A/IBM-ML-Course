@@ -29,3 +29,11 @@ The aim was to build a complete end-to-end pipeline to predict whether a given p
 An engaging project exploring various clustering methods to classify the flowers of the Iris dataset.
 
 The aim was to build an test various clustering methods on the famous Iris dataset, based on information about the sepals and petals, also learning correlations between the features in the process. After preprocessing, multiple models based on different techniques were built, with results plotted and compared using the Silhouette score.
+
+### Deep Learning Project
+
+A detailed project comparing various deep learning models to classify and generate images of the CIFAR-10 dataset
+
+The aim was to train and test various different deep learning models such as multilayer perceptrons, autoencoders, convolutional neural networks and CGANs to both classify and generate images from the CIFAR-10 dataset. Multiple variations of each model were built and tested on the original as well as augmented datasets, and results stored and compared at the end.
+
+*[Note: For this project, the dataset needs to be redownloaded when the kernel is restarted for the notebook, since it is too big to store]*
